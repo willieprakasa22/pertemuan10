@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nikenlismiati/Documents/KULIAH/C# NEWWW/C# Tugas/Tugas_Interface/Interface/Interface/Interface.csproj",
+      "projectUniqueName": "/Users/nikenlismiati/Documents/KULIAH/C#/C#Tugas/Tugas_Interface/Interface/Interface/Interface.csproj",
       "projectName": "Interface",
-      "projectPath": "/Users/nikenlismiati/Documents/KULIAH/C# NEWWW/C# Tugas/Tugas_Interface/Interface/Interface/Interface.csproj",
+      "projectPath": "/Users/nikenlismiati/Documents/KULIAH/C#/C#Tugas/Tugas_Interface/Interface/Interface/Interface.csproj",
       "packagesPath": "/Users/nikenlismiati/.nuget/packages/",
-      "outputPath": "/Users/nikenlismiati/Documents/KULIAH/C# NEWWW/C# Tugas/Tugas_Interface/Interface/Interface/obj/",
+      "outputPath": "/Users/nikenlismiati/Documents/KULIAH/C#/C#Tugas/Tugas_Interface/Interface/Interface/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nikenlismiati/.nuget/NuGet/NuGet.Config"
